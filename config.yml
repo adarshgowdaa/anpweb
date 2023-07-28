@@ -1,5 +1,5 @@
 languageCode: en-us
-baseURL: "//chanin.tech/"
+baseURL: "https://anpweb-hugo.netlify.app"
 title: Prof. Annappa B
 paginate: 5
 theme: PaperMod
